@@ -1,0 +1,492 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+.main{
+    margin: 0px;
+    padding:0px;
+    width: 100%;
+}
+/**********header start *************/
+
+.header {
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    width: 100%;
+    background: green;
+    position: fixed;
+}
+
+
+    .container{
+        margin:0px auto;
+        width: 1170px;
+    }
+    .logo{
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        width: 30%;
+    }
+    .logo h1 {
+        color: #fff;
+        float: left;
+        font-size: 35px;
+        font-family: system-ui;
+    }
+    .nav{
+        margin: 0px;
+        padding: 0px;
+        float:left;
+        width: 70%;
+    }
+    .nav ul{
+        margin: 0px;
+        padding: 0px;
+    }
+.nav ul li {
+    margin: 39px 8px 12px 4PC;
+    padding: 0px;
+  
+    display: inline-block;
+}
+    .nav ul li a{
+        margin: 14px;
+        padding: 3px 13px;
+        text-decoration: none;
+        font-size: 15px;
+        font-family: system-ui;
+        color: #fff;
+    }
+    .nav ul li a:hover{
+        outline: 2px solid white;
+
+    }
+/**********header close *************/
+/***** slider1 start ********/
+.slider1 {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin:0px auto;
+    width: 1170px;
+}  
+
+
+.contant {
+    float: left;
+    margin: 7pc 0px 31px 64px;
+    padding: 22px 6px 3px 4px;
+}
+.contant h1 {
+    font-size: 46px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.contant h3 {
+    color: black;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-bottom: 96px;
+    margin-top: -2pc;
+}
+
+.contant h3 b{
+
+    color: green;
+}
+
+img {
+    margin: 48px 1px 12px 65px;
+    padding: 19px 0px 12px 22px;
+}
+/***** slider1 close ********/
+
+/**** slider2 start****/
+.slider2 {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    background: url(background\ slider\ 1.png) no-repeat;
+    background-position: center;
+}
+
+.contant2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.contant2 h1 {
+    color: #fff;
+    margin: 32px 47pc 3pc 5pc;
+    padding: 0px 0px 0px 5px;
+    background: #008000;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 60px;
+}   
+
+.contant2 p {
+    margin: 0px 0px 17pc 82px;
+    padding: 12px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+/******slider2 close***/
+
+/*****slider3 start***/
+.slider3 {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    background: url(slider\ 3\ background.png) no-repeat;
+    background-position: center;
+    
+}
+
+.contant3 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.contant3 h1 {
+    margin: 10pc 29pc 2pc 35px;
+    padding: 25px 37px 59px 54px;
+   
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 46px;
+    background: url(slider\ 3\ h\ back.png) no-repeat;
+}
+.contant3 h1 b{
+    color: #008000;
+    text-decoration: none;
+ 
+
+}
+.contant3 h3 {
+    margin: 3pc 46pc 2px 4px;
+    padding: 13px;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 2pc;
+}
+.contant3 h3 b{
+    color: #008000;
+    text-decoration: none;
+
+}
+.contant3 p {
+    margin: 7px 1px 0pc 13px;
+    padding: 12px 6px 10pc 0px;
+    font-family: sans-serif;
+    font-size: 31px;
+    background: url(slider\ 3\ p\ back.png) no-repeat;
+}
+    /*****slider3 close ***/
+
+    /*****slider4 start***/
+.slider4 {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    background: url(slider\ 4\ background.png) no-repeat;
+    background-position: center;
+    
+}
+
+.contant4 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.contant4 h1 {
+    margin: 10pc 29pc 2pc 35px;
+    padding: 25px 37px 59px 54px;
+   
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 46px;
+    background: url(slider\ 3\ h\ back.png) no-repeat;
+}
+.contant4 h1 b{
+    color: #008000;
+    text-decoration: none;
+
+}
+.contant4 h3 {
+    margin: 3pc 50pc 30px 5px;
+    padding: 13px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.contant4 h3 {
+    margin: 3pc 50pc 31px 30px;
+    padding: 13px;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 2pc;
+}
+
+.contant4 h3 b{
+    color: #008000;
+    text-decoration: none;
+
+}
+
+.contant4 p {
+    margin: 9px 2px 5pc 30px;
+    padding: 40px 12px 20pc 15px;
+    font-family: sans-serif;
+    font-size: 31px;
+    background: url(slider\ 4\ p\ back.png) no-repeat;
+}
+
+ /*****slider4 close***/
+
+  /*****slider5 start***/
+  .slider5 {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    background-position: center;
+    
+}
+
+.contant5 {
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.contant5 h1 {
+    background: url(slider\ 5\ h\ background.png) no-repeat;
+    margin: 0pc 0pc 2pc 0pc;
+    padding: 50px 0px 31px 8pc;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 46px;
+}
+.contant5 h1 b{
+    color: #008000;
+    text-decoration: none;
+
+}
+
+.contant5 p {
+    margin: 1px 6px 4pc 2pc;
+    padding: 5pc 9px 8pc 33px;
+    font-family: sans-serif;
+    font-size: 30px;
+    background: url(slider\ 5\ background.png)no-repeat;
+}
+   /*****slider5 close***/
+
+   /*****slider6 start***/
+   .slider6 {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+   }
+
+   .contant6 {
+    margin: 0px;
+    padding: 0px;
+}
+.contant6 h1 {
+    background: url(slider\ 6\ h\ back.png) no-repeat;
+    margin: 0pc 0pc 3pc 0pc;
+    padding: 39px 10px 35px 32px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 51px;
+}
+
+.contant6 h1 b{
+    color: #008000;
+    text-decoration: none;
+
+}
+.contant6 form {
+    background: url(slider\ 6\ back.png) no-repeat;
+    margin: 0PC 0px 0pc 0pc;
+    padding: 7pc 0px 61px 9pc;
+    font-size: 24px;
+}
+
+
+.contant6 form label {
+    margin: 0px;
+    font-weight: 300;
+    font-family: sans-serif;
+    color: #fff;
+}
+.contant6 form input{
+    margin: 0px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+
+.contant6 form button {
+    margin: 12px 8pc 9px 0pc;
+    float: right;
+}
+
+.contant6 form button:hover{
+    
+    cursor: pointer;
+    
+    background:#FFF ;
+}
+ /*****slider6 close***/
+  /*****slider7 start***/
+
+.slider7 {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    background: url(slider\ 7\ background.png) no-repeat;
+}
+
+   .contant7 {
+    margin: 0px;
+    padding: 0px;
+}
+.contant7 h1 {
+ 
+    margin: 4pc 0pc 6pc 11pc;
+    padding: 8px 0px 5px 0px;
+    text-decoration: none;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+
+
+.contant7 a {
+    margin: 0px 19pc 11pc 31pc;
+    padding: 2px 1pc 2px 1pc;
+    text-decoration: none;
+    background: #fec200;
+}
+
+.contant7 a:hover{
+    background: #fff;
+}
+ /*****slider7 close ***/
+ /************footer start***********/
+.footer{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    float: left;
+    background: #49c581;
+}
+.footnav1{
+    width: 24%;
+    margin: 55px 0px 0px 0px ;
+    padding: 0px;
+    float: left;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    margin: 0px ;
+    padding: 0px;
+}
+
+.footnav1 ul li a{
+    color: #000000;
+    font-family: system-ui;
+    margin: 0px;
+    line-height: 30px;
+    text-decoration: none;
+}
+
+.footnav1 ul li a:hover{
+    color: #ffffff;
+}
+
+.footnav2{
+    width: 24%;
+    margin: 55px 0px 0px 0px ;
+    padding: 0px;
+    float: left;
+}
+
+.footnav2 ul li a{
+    color: #000000;
+    font-family: system-ui;
+    margin: 0px;
+    line-height: 30px;
+    text-decoration: none;
+}
+
+.footnav2 ul li a:hover{
+    color: #ffffff;
+}
+
+
+.footnav3{
+    width: 24%;
+    margin: 55px 0px 0px 0px ;
+    padding: 0px;
+    float: left;
+}
+
+.footnav3 ul li a{
+    color: #000000;
+    font-family: system-ui;
+    margin: 0px;
+    line-height: 30px;
+    text-decoration: none;
+}
+
+.footnav3 ul li a:hover{
+    color: #ffffff;
+}
+
+
+.but{
+    margin: 55px 0px 0px 0px ;
+    padding: 0px ;
+    width: 25%;
+    float: left;
+}
+.but h1{
+    color: #fff;
+    font-size: 24px;
+    font-family: system-ui;
+    font-weight: 400;
+}
+.but a{
+    outline: 2px solid #fff;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    transition: 1.2s;
+    cursor:pointer;
+}
+
+.but a:hover{
+    background-color:chocolate;
+    color: cornsilk;
+}
+/************footer close***********/
